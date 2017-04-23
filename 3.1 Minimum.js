@@ -1,3 +1,7 @@
+Exercise 3.1
+
+Write a function min that takes two arguments and returns their minimum.
+
 // Your code here.
 function min(a,b) {
   if(a==b) {return "equal";}
